@@ -2,6 +2,10 @@
 
 An end-to-end e-commerce analytics project using SQL, DuckDB, Python, and Power BI to analyze customer behavior, revenue concentration, retention, delivery experience, and customer satisfaction.
 
+## Power BI Dashboard
+
+![Olist E-Commerce Customer Analytics Dashboard](dashboard_data/olist_customer_analytics_dashboard.png)
+
 ## Project Overview
 
 This project analyzes the Brazilian Olist e-commerce dataset to answer key business questions around:
