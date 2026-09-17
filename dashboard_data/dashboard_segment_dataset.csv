@@ -1,0 +1,5 @@
+business_segment,customer_count,customer_share_pct,total_revenue,revenue_share_pct,avg_orders,avg_customer_spend,avg_order_value,avg_items,avg_sellers,avg_late_rate_pct,avg_delivery_days,avg_review_score,low_rating_rate_pct
+High-Value Repeat,1332,1.39,686974.77,4.29,2.21,515.75,239.08,2.91,2.25,7.97,12.74,4.03,15.76
+High-Value One-Time,12916,13.44,6788220.77,42.4,1.0,525.57,525.57,1.37,1.02,9.37,14.12,3.92,19.51
+Low-Value Repeat,1665,1.73,257047.94,1.61,2.04,154.38,76.04,2.22,2.03,6.46,11.89,4.18,11.86
+Low-Value One-Time,80183,83.44,8276628.64,51.7,1.0,103.22,103.22,1.09,1.0,8.0,12.26,4.11,13.93

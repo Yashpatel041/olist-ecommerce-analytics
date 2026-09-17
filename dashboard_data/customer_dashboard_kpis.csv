@@ -1,0 +1,2 @@
+total_customers,one_time_customers,repeat_customers,repeat_customer_rate_pct,total_revenue,avg_customer_spend,avg_order_value,avg_orders,avg_late_rate_pct,avg_review_score,low_rating_rate_pct,high_value_customers,high_value_customer_share_pct,top_10_revenue_share_pct,top_20_revenue_share_pct,repeat_90_day_rate_pct
+96096,93099,2997,3.12,16008872.12,166.59,161.4,1.03,8.15,4.08,14.64,14248,14.83,38.51,53.77,1.33

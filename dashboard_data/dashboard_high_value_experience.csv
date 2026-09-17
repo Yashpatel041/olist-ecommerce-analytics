@@ -1,0 +1,13 @@
+value_tier,delivery_status,order_count,order_share_pct,avg_review_score,low_rating_rate_pct,avg_delay_days
+Low Value,On-Time,40153,89.85,4.34,7.87,
+Low Value,Late,3303,7.39,2.67,51.46,8.25
+Low Value,Unknown,1235,2.76,1.74,78.39,
+Medium Value,On-Time,34657,89.11,4.29,9.42,
+Medium Value,Late,3144,8.08,2.5,55.58,9.09
+Medium Value,Unknown,1093,2.81,1.81,75.91,
+High Value,On-Time,9480,87.76,4.19,12.08,
+High Value,Late,932,8.63,2.47,56.44,9.99
+High Value,Unknown,390,3.61,1.73,77.78,
+Very High Value,On-Time,4359,86.25,4.18,13.3,
+Very High Value,Late,448,8.86,2.48,56.42,9.53
+Very High Value,Unknown,247,4.89,1.64,82.01,

@@ -1,0 +1,5 @@
+value_tier,value_tier_order,customer_count,customer_share_pct,avg_customer_spend,avg_orders,avg_late_rate_pct,avg_delivery_days,avg_review_score,low_rating_rate_pct
+Low Value,1,44391,46.19,60.38,1.01,7.63,11.56,4.14,12.93
+Medium Value,2,37457,38.98,156.27,1.04,8.37,13.08,4.07,14.9
+High Value,3,9759,10.16,338.22,1.11,9.12,13.79,3.95,18.1
+Very High Value,4,4489,4.67,929.95,1.13,9.5,14.41,3.89,20.32

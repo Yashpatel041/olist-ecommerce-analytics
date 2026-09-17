@@ -1,0 +1,6 @@
+customer_group,customer_count,revenue,revenue_share_pct
+Top 1%,961,1678315.85,10.48
+Top 5%,4805,4328554.47,27.04
+Top 10%,9610,6165584.36,38.51
+Top 20%,19220,8608128.5,53.77
+Remaining 80%,76876,7400743.62,46.23

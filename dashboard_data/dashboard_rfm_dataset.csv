@@ -1,0 +1,7 @@
+customer_segment,customer_count,customer_share_pct,avg_recency_days,avg_frequency,avg_monetary_value,avg_recency_score,avg_monetary_score
+High-Value Active,1064,1.11,136.04,2.19,382.4,4.53,4.7
+Active Repeat,240,0.25,136.96,2.02,97.13,4.52,2.59
+Recent High-Value One-Time,14786,15.39,141.13,1.0,304.94,4.5,4.48
+At-Risk Repeat,1056,1.1,432.55,2.08,301.25,1.56,4.16
+Inactive One-Time,37383,38.9,445.85,1.0,163.14,1.5,2.94
+Other,41567,43.26,199.62,1.02,111.94,3.81,2.45

@@ -1,0 +1,5 @@
+value_tier,value_tier_order,customer_count,revenue,revenue_share_pct,avg_customer_spend
+Low Value,1,44391,2680143.21,16.74,60.38
+Medium Value,2,37457,5853533.37,36.56,156.27
+High Value,3,9759,3300642.28,20.62,338.22
+Very High Value,4,4489,4174553.26,26.08,929.95
