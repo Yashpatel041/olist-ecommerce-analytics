@@ -1,32 +1,43 @@
-# Olist E-Commerce Analytics
+# Olist E-Commerce Customer Analytics
 
-An end-to-end **Data Analytics project** built using the Olist Brazilian E-Commerce dataset to analyze sales performance, customer behavior, retention, customer value, delivery experience, and revenue concentration.
-
-The project uses **SQL, DuckDB, Python, and Power BI** to transform raw e-commerce data into business-focused insights.
-
----
+An end-to-end e-commerce analytics project using SQL, DuckDB, Python, and Power BI to analyze customer behavior, revenue concentration, retention, delivery experience, and customer satisfaction.
 
 ## Project Overview
 
-The objective of this project is to understand:
+This project analyzes the Brazilian Olist e-commerce dataset to answer key business questions around:
 
-- How sales and revenue evolved over time
-- Customer purchasing behavior
-- One-time vs repeat customers
-- Customer value and RFM segments
-- Customer retention and 90-day repeat behavior
-- Revenue concentration across customer groups
+- Customer retention and repeat purchasing
+- Revenue and customer value distribution
+- RFM customer segmentation
+- High-value customer behavior
 - Delivery performance and customer satisfaction
-- Relationship between customer value and experience
+- Revenue concentration
+- Customer experience across value tiers
 - Business segments based on customer value and repeat behavior
+
+The project follows a complete analytics workflow from raw data exploration and SQL analysis to customer-level feature engineering and an interactive Power BI dashboard.
+
+---
+
+## Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| Python | Data understanding and analysis |
+| Pandas | Data manipulation |
+| DuckDB | SQL analytics and analytical database |
+| SQL | Data cleaning, transformation and business analysis |
+| Power BI | Interactive dashboard and visualization |
+| Jupyter Notebook | Exploratory analysis |
+| Git & GitHub | Version control and project sharing |
 
 ---
 
 ## Dataset
 
-The project uses the **Olist Brazilian E-Commerce Public Dataset**.
+The project uses the **Brazilian E-Commerce Public Dataset by Olist**.
 
-The dataset contains information about:
+The original dataset contains information about:
 
 - Customers
 - Orders
@@ -38,40 +49,31 @@ The dataset contains information about:
 - Geolocation
 - Product category translations
 
-The raw dataset contains approximately **99K orders** and **96K unique customers**.
+Raw datasets and the DuckDB database are intentionally excluded from this repository using `.gitignore`.
 
 ---
 
-## Tech Stack
-
-- **Python** — data preparation and analysis
-- **Pandas** — data manipulation
-- **SQL** — analytical queries
-- **DuckDB** — analytical database
-- **Power BI** — dashboard and visualization
-- **Jupyter Notebook** — exploratory analysis
-
----
-
-## Project Workflow
+# Project Workflow
 
 ```text
 Raw Olist Dataset
        ↓
-Data Inspection & Quality Checks
+Python Data Understanding
        ↓
-Data Cleaning & Transformation
+DuckDB Database
        ↓
-DuckDB Analytical Layer
+SQL Data Quality & Relationship Checks
        ↓
-SQL Business Analysis
+Analytics Views
        ↓
-Exploratory Data Analysis
+Business Analysis
        ↓
-Customer & RFM Analysis
+Customer Feature Engineering
        ↓
-Revenue & Customer Value Analysis
+RFM Analysis
+       ↓
+Customer Value & Retention Analysis
+       ↓
+Dashboard Dataset Creation
        ↓
 Power BI Dashboard
-       ↓
-Business Insights & Recommendations
